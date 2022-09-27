@@ -1,0 +1,6 @@
+runners\RerunRunner.class
+runners\GooglePageRunner.class
+stepDefs\GooglePageOneStepDef.class
+stepDefs\GooglePageStepDef.class
+stepDefs\UserRegisterStepDef.class
+stepDefs\UserStepDef.class
