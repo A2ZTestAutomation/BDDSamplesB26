@@ -18,7 +18,7 @@ import io.cucumber.junit.CucumberOptions;
 				"pretty",
 //				"usage:target/Reports/usageReport",
 				"json:target/Reports/JsonReport.json",
-//				"junit:target/Reports/JUnitReport.xml",
+				"junit:target/Reports/JUnitReport.xml",
 				"html:target/Reports/HtmlReport.html",
 //				"rerun:target/failedScenarios.txt"
 //				"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
