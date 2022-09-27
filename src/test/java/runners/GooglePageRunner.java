@@ -17,7 +17,7 @@ import io.cucumber.junit.CucumberOptions;
 		plugin= {
 				"pretty",
 //				"usage:target/Reports/usageReport",
-//				"json:target/Reports/JsonReport.json",
+				"json:target/Reports/JsonReport.json",
 //				"junit:target/Reports/JUnitReport.xml",
 				"html:target/Reports/HtmlReport.html",
 //				"rerun:target/failedScenarios.txt"
